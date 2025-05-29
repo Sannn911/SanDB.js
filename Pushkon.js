@@ -1,12 +1,12 @@
 {
 
-  "secretCode": "SANNNNID",
+  "secretCode": "SanShaka",
 
-  "description": "Create by TradzID", 
+  "description": "Create by SannnID", 
 
   "lastUpdated": "14/05/2025",
 
-  "author": "TradzID", 
+  "author": "SannnID", 
 
   "status": "Active",
 
